@@ -54,7 +54,7 @@
 
   </a>
   <a href="https://wa.me/qr/6YU2FJRVFLGAM1">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
+    <img src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/miss%20contact.jpeg" width=210px>
 
   </a>
 </p>
